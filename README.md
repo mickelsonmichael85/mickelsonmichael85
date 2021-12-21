@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Michael.
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python.
 - 💞️ I’m not looking to collaborate until I have a better understanding of the GitHub process.
 - 📫 You can email me at mickelsonmichael85@gmail.com
